@@ -325,7 +325,7 @@
   background-color: #202027;
   font-weight: bold;
   height: 50px;
-  position: absolute;
+  position: fixed;
   width: 90%;
   bottom: 0;
 }
